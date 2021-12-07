@@ -1,1 +1,1 @@
-#Fintech Case Study#
+# Fintech Case Study #
