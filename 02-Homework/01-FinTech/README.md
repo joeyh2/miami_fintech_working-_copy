@@ -1,4 +1,4 @@
-# Sporttrade Inc. - Building a Winning Team with Exchanges and Sports Betting
+# Sporttrade Inc. - Building a Winning Team with Financial Exchanges and Sports Betting
 *A Case Study by Joseph Hagemann*
 ## Overview and Origin
 
