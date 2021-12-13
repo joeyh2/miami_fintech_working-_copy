@@ -6,7 +6,6 @@ undertake based on max NPV values.
 """
 
 # @TODO: Import the NumPy Financial (numpy_financial) library
-import numpy_financial
 # @TODO: You may need to run `pip install numpy-financial` in your terminal to install the library
 
 # Discount Rate
@@ -21,6 +20,9 @@ cash_flows_aggressive = [-2250, 800, 800, 800, 800]
 npv_dict = {}
 
 # @TODO: Calculate the NPV for each scenario
+
+
+
 
 # @TODO: Manually Choose the project with the highest NPV value
 
